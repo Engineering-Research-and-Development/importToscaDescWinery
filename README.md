@@ -51,7 +51,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 
 # Introduction
-This README file is also available in pdf format in the *./doc* subdirectory (click [here](https://github.com/Engineering-Research-and-Development/importToscaDescWinery/doc/README.pdf) to see and download it).
+This README file is also available in pdf format in the *./doc* subdirectory (click [here](./doc/README.pdf) to see and download it).
 
 ## What is TOSCA?
 [TOSCA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca) (Topology and Orchestration Specification for Cloud Applications) is an [OASIS](https://www.oasis-open.org/) standard language aimed at describing cloud workloads, specifying their components, relationships, and the processes to manage them.
