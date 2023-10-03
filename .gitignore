@@ -1,2 +1,6 @@
-# Empty .gitignore so far
+# Ignore the following directories
+/test
+/examples/yamlfiles/org.oasis-open_non-norm
 
+# Ignore word files in doc subdirectory
+doc/*.docx
